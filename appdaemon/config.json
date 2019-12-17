@@ -1,8 +1,8 @@
 {
-  "name": "AppDaemon",
+  "name": "AppDaemonF",
   "version": "dev",
   "slug": "appdaemon3",
-  "description": "Python Apps and HADashboard using AppDaemon 3.x for Home Assistant",
+  "description": "Python Apps and HADashboard using AppDaemon 3.x for Home Assistant Fork",
   "url": "https://github.com/hassio-addons/addon-appdaemon3",
   "webui": "http://[HOST]:[PORT:5050]",
   "startup": "application",
